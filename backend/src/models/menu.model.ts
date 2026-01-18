@@ -16,7 +16,7 @@ export let products: Product[] = [
         price: 12000,
         categoryId: 1,
         available: true,
-        image: 'https://images.unsplash.com/photo-1549203738-9cb5791777d1?auto=format&fit=crop&q=80&w=300'
+        image: 'https://images.unsplash.com/photo-1605206306693-e483fc108d44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
     },
     {
         id: 2,
