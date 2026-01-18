@@ -16,7 +16,7 @@ export let products: Product[] = [
         price: 12000,
         categoryId: 1,
         available: true,
-        image: 'https://images.getrecipekit.com/20220608035213-teque-os-20de-20queso.jpg?aspect_ratio=4:3&quality=90&display_width=700'
+        image: 'https://www.cocinatis.com/receta/tequenos.html'
     },
     {
         id: 2,
@@ -34,7 +34,7 @@ export let products: Product[] = [
         price: 15000,
         categoryId: 3,
         available: true,
-        image: 'https://cdn.colombia.com/gastronomia/2011/08/02/limonada-de-coco-1616.jpg'
+        image: 'https://www.pasionthermomix.co/limonada-de-coco/'
     }
 ];
 
