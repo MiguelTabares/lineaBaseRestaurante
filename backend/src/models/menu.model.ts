@@ -16,7 +16,7 @@ export let products: Product[] = [
         price: 12000,
         categoryId: 1,
         available: true,
-        image: 'https://images.unsplash.com/photo-1605206306693-e483fc108d44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+        image: 'https://images.getrecipekit.com/20220608035213-teque-os-20de-20queso.jpg?aspect_ratio=4:3&quality=90&display_width=700'
     },
     {
         id: 2,
@@ -33,7 +33,8 @@ export let products: Product[] = [
         description: 'Refrescante limonada con leche de coco',
         price: 15000,
         categoryId: 3,
-        available: true
+        available: true,
+        image: 'https://cdn.colombia.com/gastronomia/2011/08/02/limonada-de-coco-1616.jpg'
     }
 ];
 
